@@ -7,3 +7,5 @@ Responsive Design (works on mobile, tablet, desktop)
 ✨ Easy to customize for personal or project use
 
 🔒 Looks similar to Gmail login page for practice
+
+Best for responsivness.
